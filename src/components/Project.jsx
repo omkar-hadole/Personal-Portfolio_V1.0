@@ -1,7 +1,6 @@
 import gradient from '../assets/Gradient.png'
-import portfolio from '../assets/portfolio.png'
+import portfolio from '../assets/Portfolio.png'
 import iconParkSolid from '../assets/icon-park-solid_click.svg'
-import iconParkSolid2 from '../assets/icon-park-solid_click.svg'
 
 function Project() {
   return (
